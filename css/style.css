@@ -1,0 +1,42 @@
+
+.info{
+    
+    color: rgb(237, 237, 225);
+    background-color: #1a1a1a;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.img{
+    clip-path: circle();
+}
+
+
+.cursos{
+    font-size: medium;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 2px;
+}
+
+.hobbies{
+    font-size: medium;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 2px;
+
+}
+
+.projetos{
+    font-size: medium;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 2px;
+
+}
+
+.rodape{
+    margin-left: 20px;
+    font-size: small;
+}
